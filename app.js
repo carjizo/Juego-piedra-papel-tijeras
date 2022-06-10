@@ -18,11 +18,11 @@ function movidaComp() {
 
 function convertirletra(opcion) {
     if (opcion == 'r') {
-        return "Piedra ";
+        return "Piedra ✊ ";
     } else if (opcion == 'p') {
-        return "Papel ";
+        return "Papel 🤚 ";
     }else{
-        return "Tijeras ";
+        return "Tijeras ✌ ";
     }
 }
 
